@@ -62,7 +62,7 @@ selections:
 
     ### Services
     # sshd
-    - service_sshd_disabled
+    # - service_sshd_disabled
     #- sshd_disable_root_login
     #- sshd_enable_strictmodes
     #- disable_host_auth
